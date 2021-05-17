@@ -130,6 +130,7 @@ a:active{
     .box{
         width: 312px;
         height: 420px;
+        padding: 35px;
     }
 }
 
